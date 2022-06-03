@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
                 .setNeutralButton("OK", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
-                        Toast.makeText(MainActivity.this, "", Toast.LENGTH_SHORT).show();
+
                     }
                 }).show();
     }
