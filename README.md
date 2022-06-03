@@ -8,3 +8,4 @@ Some of project snippets.
 ![alt text](https://github.com/201b328-mayank/MadProject22/blob/master/Screenshot_20220603-143446.png)
 
 ![alt text](https://github.com/201b328-mayank/MadProject22/blob/master/Screenshot_20220603-143452.png)
+# Mad_projects
