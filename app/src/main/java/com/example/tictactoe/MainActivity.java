@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void dialoge_winner(){
+    public void dialoge_winner(){   // this is done by shaurya
         new AlertDialog.Builder(this)
                 .setIcon(R.drawable.winner)
                 .setTitle("Congratulation")
